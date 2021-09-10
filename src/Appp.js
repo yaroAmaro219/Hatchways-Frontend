@@ -40,7 +40,7 @@ const SearchPage = (props) => {
 })
 
   useEffect( () => {fetchData()},[]);
-	
+
   return (
     <>
       <h1>Country List</h1>
